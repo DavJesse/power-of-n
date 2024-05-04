@@ -1,7 +1,7 @@
 <div>
-    <div dir="auto">
+    <div>
         <div>
-            <h3>Power of N Checker</h3>
+            <h3>Power of N</h3>
             <p>This Go program checks whether a given number <code>m</code> is a power of another number <code>n</code>.</p>
             <h3>Usage</h3>
             <p>The program takes two arguments, <code>m</code> and <code>n</code>, respectively. It then determines if <code>m</code> is a power of <code>n</code> and prints the result (<code>true</code> or <code>false</code>) accordingly.</p>
